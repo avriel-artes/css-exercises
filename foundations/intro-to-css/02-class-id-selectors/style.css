@@ -1,1 +1,19 @@
-/* Add CSS Styling */
+.odd-number {
+    background-color: #ef476f;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+.special-boy {
+    font-size: 24px;
+}
+
+#two {
+    color: #118ab2;
+    font-size: 36px;
+}
+
+#four {
+    background-color: #06d6a0;
+    font-size: 24px;
+    font-weight: bold;
+}
